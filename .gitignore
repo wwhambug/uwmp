@@ -1,0 +1,10 @@
+.env*.local
+.next/
+node_modules/
+tsconfig.tsbuildinfo
+work/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
